@@ -1,0 +1,17 @@
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\Add Client PPPoE.exe.config
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\Add Client PPPoE.exe
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\Add Client PPPoE.pdb
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\Add Client PPPoE.xml
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\tik4net.dll
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\tik4net.objects.dll
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\tik4net.xml
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\bin\Debug\tik4net.objects.xml
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.vbproj.AssemblyReference.cache
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add_Client_PPPoE.Form1.resources
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add_Client_PPPoE.Resources.resources
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.vbproj.GenerateResource.cache
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.vbproj.CoreCompileInputs.cache
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Clie.41FDC515.Up2Date
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.exe
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.xml
+G:\D-Tech Project\Video5\app\Add Client PPPoE\Add Client PPPoE\obj\Debug\Add Client PPPoE.pdb
