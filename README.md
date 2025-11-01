@@ -45,8 +45,7 @@ Restore dependencies (Tik4Net DLL).
 Build and run the project.
 
 🖥️ Screenshot
-
-Screenshot.png
+![App Screenshot](Screenshot.png)
 
 🧑‍💻 Author
 
